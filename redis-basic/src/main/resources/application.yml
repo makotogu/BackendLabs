@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: redis-basic
+  redis:
+    host: 101.35.83.193
+    port: 6379

@@ -1,8 +1,11 @@
 /.idea/
 /BackendLabs.iml
 
-/redis-basic/src/main/resources/application.yml
-/redis-basic/.mvn
-/redis-basic/mvnw
-/redis-basic/mvnw.cmd
-/redis-basic/redis-basic.iml
+
+redis-basic/.mvn
+redis-basic/mvnw
+redis-basic/mvnw.cmd
+redis-basic/redis-basic.iml
+.DS_Store
+redis-basic/src/main/resources/application.yml
+
