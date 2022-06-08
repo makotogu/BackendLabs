@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: redis-basic
+  redis:
+    host: xx.xx.xx.x
+    port: 6379
